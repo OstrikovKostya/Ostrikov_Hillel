@@ -1,0 +1,33 @@
+
+<users>
+  <user>
+    <name>Sallah</name>
+    <position> FW</position>
+    <country> EGY</country>
+    <age> 29</age>
+   </user>
+  <user>
+    <name>Alisson</name>
+    <position> GK</position>
+    <country> BRA</country>
+    <age> 29</age>
+  </user>
+  <user>
+    <name>Tsimikas</name>
+    <position> DEF</position>
+    <country> GRE</country>
+    <age> 25</age>
+  </user>
+  <user>
+    <name>Alcantara</name>
+    <position> MID</position>
+    <country> ESP</country>
+    <age> 31</age>
+ </user>
+  <user>
+    <name>Dias</name>
+    <position> FW</position>
+    <country> COL</country>
+    <age> 25</age>
+  </user>
+</users>

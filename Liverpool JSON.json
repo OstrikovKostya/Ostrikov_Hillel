@@ -1,0 +1,32 @@
+[
+ {
+   "name": "Sallah",
+   "position": " FW",
+   "country": " EGY",
+   "age": 29
+ },
+ {
+   "name": "Alisson",
+   "position": " GK",
+   "country": " BRA",
+   "age": 29
+ },
+ {
+   "name": "Tsimikas",
+   "position": " DEF",
+   "country": " GRE",
+   "age": 25
+ },
+ {
+   "name": "Alcantara",
+   "position": " MID",
+   "country": " ESP",
+   "age": 31
+ },
+ {
+   "name": "Dias",
+   "position": " FW",
+   "country": " COL",
+   "age": 25
+ }
+]

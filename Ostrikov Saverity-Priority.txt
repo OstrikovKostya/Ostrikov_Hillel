@@ -1,0 +1,13 @@
+Severity-Trivial
+Priority-P1
+
+When accessing the main site of FC Liverpool, the year of the club's foundation and the name of the head coach are incorrectly indicated.
+This error (bug) does not affect the operation of the site in terms of functionality, but it causes reputational losses.
+This bug needs to be fixed as soon as possible.
+
+Severity-Blocker
+Priority-P5
+
+When placing an order through the online store, if more than 50 items are added to the cart, the site gives an error and stops working completely.
+This bug is blocking the site / application, but you can fix it a little later, because according to reports,
+the average number of items added to the cart is less than 30.

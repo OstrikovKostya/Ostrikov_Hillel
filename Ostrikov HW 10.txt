@@ -1,0 +1,14 @@
+1. Request URL: http://151.80.70.42:3000/api/users
+Request Method: POST
+
+2. Request URL: http://151.80.70.42:3000/api/users/refreshAdmins
+Request Method: GET
+
+3.Request URL: http://151.80.70.42:3000/api/users/36
+Request Method: PUT
+
+4.Request URL: http://151.80.70.42:3000/api/users/35
+Request Method: DELETE
+
+5. Request URL: http://151.80.70.42:3000/api/users
+Request Method: GET

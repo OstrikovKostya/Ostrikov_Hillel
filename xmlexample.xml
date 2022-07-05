@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <users>
+      <user married="true">
+         <age>34</age>
+         <job>QA</job>
+         <name>Vasya</name>
+      </user>
+      <user married="false">
+         <age>37</age>
+         <job>Dev</job>
+         <name>Petya</name>
+      </user>
+      <user married="false">
+         <age>20</age>
+         <job>PM</job>
+         <name>Kolya</name>
+      </user>
+   </users>

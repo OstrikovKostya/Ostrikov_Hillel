@@ -1,0 +1,6 @@
+html body img {
+	height: 100px;
+}
+body > table > tr > td {
+	color: #8673fc;
+}
